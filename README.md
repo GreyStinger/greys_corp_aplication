@@ -1,4 +1,4 @@
-# greys_corp_aplication
+# Grey's Corp's Officail Mobile Application
 
 Grey's Corp's Official Aplication
 
