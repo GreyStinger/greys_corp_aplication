@@ -13,4 +13,4 @@ I really think that it could be alot of fun.
 
 I have a website that I am setting up that will be
 set up in a similar manner as this aplication.
-You can [find the project here on GitHub](https://github.com/JaydenAndrews/greys_corp_website)
+You can find the project on [GitHub](https://github.com/JaydenAndrews/greys_corp_website)
