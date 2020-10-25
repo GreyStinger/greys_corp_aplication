@@ -1,16 +1,16 @@
-# greys_corp
+# greys_corp_aplication
 
 Grey's Corp's Official Aplication
 
-## Getting Started
+## I am pursuing this as a passion project.
 
-This project is a starting point for a Flutter application.
+This has to be stated early as to avoid confusion.
+This will not be for reference or for finantial gain.
+The only reason that I am going about this is that
+I really think that it could be alot of fun.
 
-A few resources to get you started if this is your first Flutter project:
+## I plan to use this hand in hand with my website.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have a website that I am setting up that will be
+set up in a similar manner as this aplication.
+You can [find the project here on GitHub](
