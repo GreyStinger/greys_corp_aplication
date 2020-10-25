@@ -1,6 +1,6 @@
 # Grey's Corp's Officail Mobile Application
 
-Grey's Corp's Official Aplication
+Grey's Corp's Official Application
 
 ## I am pursuing this as a passion project.
 
